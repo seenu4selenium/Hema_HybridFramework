@@ -8,4 +8,6 @@ public class Locators {
 	public final By fbLogin_Password_EditBox = By.name("pass");
 	public final By fbLogin_Login_Button = By.name("login123");
 
+	
+	
 }

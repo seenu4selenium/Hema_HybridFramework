@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testscenarios.FB_DEMO_withCFN">
+      <class name="com.testscenarios.Justrecharge">
         <methods>
-          <include name="abc"/>
-          <include name="abd"/>
+          <include name="f"/>
         </methods>
-      </class> <!-- com.testscenarios.FB_DEMO_withCFN -->
+      </class> <!-- com.testscenarios.Justrecharge -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
